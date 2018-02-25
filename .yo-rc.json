@@ -1,0 +1,17 @@
+{
+  "generator-ngx-rocket": {
+    "version": "3.2.1",
+    "props": {
+      "appName": "testApp1",
+      "target": [
+        "web"
+      ],
+      "pwa": false,
+      "ui": "bootstrap",
+      "auth": true,
+      "projectName": "test-app-1",
+      "packageManager": "npm",
+      "mobile": []
+    }
+  }
+}
